@@ -1,5 +1,5 @@
 # Threejs-Sphere-Practice
-Learned from yt DesignCourse
+Learned from yt DesignCourse\
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
