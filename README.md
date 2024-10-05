@@ -1,7 +1,5 @@
 # Threejs-Sphere-Practice
 Learned from yt DesignCourse
-
-# Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
